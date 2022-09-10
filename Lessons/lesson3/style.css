@@ -1,0 +1,32 @@
+#aaa{
+    background: yellowgreen;
+    color: rgb(242, 255, 2);
+}
+p{
+    color: blue;
+}
+.vip{
+    color: red;
+}
+/* 120 */
+.super-vip .vip #aaa{
+    color: green;
+}
+
+.menu1 li{
+    background-color: yellow;
+    margin: 20px;
+}
+/* 11 */
+.menu2 li{
+    background-color: green;
+}
+/* 1 */
+h1{
+    text-align: end; 
+    color: red; 
+    background: aqua
+}
+
+
+div#aaa.bbb.ccc ul.qqq.ttt#jjj li#yyy.lll a span
